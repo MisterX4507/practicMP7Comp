@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\bin\Debug\practicMP7Single.exe.config
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\bin\Debug\practicMP7Single.exe
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\bin\Debug\practicMP7Single.pdb
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.FormMain.resources
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.FormDepended.resources
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.exe
+c:\users\user\documents\visual studio 2013\Projects\practicMP7Single\practicMP7Single\obj\Debug\practicMP7Single.pdb
